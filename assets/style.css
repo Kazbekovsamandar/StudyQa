@@ -4,9 +4,7 @@
     font-family: "Montserrat";
 }
 
-.introtexts{
-
-    p{
-      margin-left: 60px;
-    }
+.introtitle h1{
+  margin-left: 150px;
+  color: blue;
 }
